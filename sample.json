@@ -1,0 +1,59 @@
+[
+    {
+        level:"Level 1",
+        arrows:[
+            {
+               direction:"1-5",
+               amount:"150",
+            },
+            {
+                direction:"2-4",
+                amount:"150",
+             },
+             {
+                direction:"1-2",
+                amount:"150",
+             }
+        ],
+
+    },
+
+    {
+        level:"Level 2",
+        arrows:[
+            {
+               direction:"1-5",
+               amount:"150",
+            },
+            {
+                direction:"2-4",
+                amount:"150",
+             },
+             {
+                direction:"1-2",
+                amount:"150",
+             }
+        ],
+        
+    },
+
+    {
+        level:"Level 3",
+        arrows:[
+            {
+               direction:"1-5",
+               amount:"150",
+            },
+            {
+                direction:"2-4",
+                amount:"150",
+             },
+             {
+                direction:"1-2",
+                amount:"150",
+             }
+        ],
+        
+    }
+    
+]
